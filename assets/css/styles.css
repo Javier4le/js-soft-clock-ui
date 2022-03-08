@@ -1,0 +1,71 @@
+/* =============== GOOGLE FONTS =============== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+
+/* =============== VARIABLES CSS =============== */
+
+:root {
+	/* ========== Colors ========== */
+	--hue-color: 240; /* Blue 240 - Green 154 - Orange 25 - Pink 335 */
+
+	--first-color: ;
+	--title-color: ;
+	--text-color: ;
+	--text-color-light: ;
+	--white-color: ;
+	--body-color: ;
+
+	/* ========== Fonts and typography ========== */
+	--body-font: ;
+	--biggest-font-size: ;
+	--small-font-size: ;
+	--smaller-font-size: ;
+	--tiny-font-size: ;
+
+	/* ========== Fonts weight ========== */
+	--font-medium: ;
+
+	/* ========== Margenes Bottom ========== */
+	--mb-0-25: ;
+	--mb-1: ;
+	--mb-1-5: ;
+	--mb-2-5: ;
+
+	/* ========== z index ========== */
+	--z-normal: ;
+	--z-tooltip: ;
+}
+
+
+@media screen and (min-width: 968px) {
+	:root {
+		--biggest-font-size: ;
+		--small-font-size: ;
+		--smaller-font-size: ;
+		--tiny-font-size: ;
+	}
+}
+
+
+/* ========== Variables Dark theme ========== */
+
+
+/* ========== Button Dark/Light ========== */
+
+
+/* ========== Box shadow Dark theme ========== */
+
+
+
+/* =============== BASE =============== */
+
+
+/* =============== REUSABLE CSS CLASSES =============== */
+
+
+/* =============== CLOCK =============== */
+
+
+/* =============== MEDIA QUERIES =============== */
+/* For large devices */
+
